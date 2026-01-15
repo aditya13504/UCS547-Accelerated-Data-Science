@@ -1,8 +1,8 @@
-# Course - Edge AI: Accelerated Data Science
+## Course - Edge AI: Accelerated Data Science
 ---
 
-# Name - Aditya Gupta
+## Name - Aditya Gupta
 ---
-# Roll number - 102303474
+## Roll number - 102303474
 ---
-# Phone number - 8448445205
+## Phone number - 8448445205
